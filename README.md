@@ -5,3 +5,4 @@ Regularly updating this simple app with features like -
 2. Disabling inspect elements feature
 3. Creating a dashboard for adding questions and answers for teachers.
 4. Enhancing the design of this app majorly using bootstrap and CSS.
+
