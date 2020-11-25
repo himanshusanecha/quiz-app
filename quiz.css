@@ -1,0 +1,11 @@
+.hi {
+    margin: 100px 50px 100px 100px;
+  }
+li{
+    font-size: 1em;
+}
+input[type=radio]{
+    border: 16px;
+    width: 10px;
+    height: 1.5em;
+}
